@@ -1,0 +1,8 @@
+# Python dependencies for Financial Health Prediction Project
+
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
